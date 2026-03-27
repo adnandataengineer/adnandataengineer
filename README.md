@@ -35,8 +35,8 @@ Results-driven **Data Analytics Master's graduate** (1:1 First Class Honours, NC
 
 ### 📊 My GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAdnanKhalid&show_icons=true&theme=radical&hide_border=true" alt="Adnan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAdnanKhalid&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnandataengineer&show_icons=true&theme=radical&hide_border=true" alt="Adnan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnandataengineer&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 ### 📬 Let's Connect!
