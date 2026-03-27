@@ -33,11 +33,12 @@ Results-driven **Data Analytics Master's graduate** (1:1 First Class Honours, NC
 - **BSc in Computer Science** - *PAF KIET (2018 - 2022)*
 - **Certifications:** Certified Data Engineer (Emeritus), Google Data Analytics Specialization, HackerRank SQL.
 
+
 ### 📊 My GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnandataengineer&show_icons=true&theme=radical&hide_border=true" alt="Adnan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnandataengineer&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</div>
+
+[![Adnan's Stats](https://github-readme-stats.vercel.app/api?username=adnandataengineer&show_icons=true&theme=radical&hide_border=true)](https://github.com/adnandataengineer)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnandataengineer&layout=compact&theme=radical&hide_border=true)](https://github.com/adnandataengineer)
 
 ### 📬 Let's Connect!
 [<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">](mailto:muhammadadnan.py@gmail.com)
